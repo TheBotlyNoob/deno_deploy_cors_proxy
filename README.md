@@ -1,6 +1,6 @@
 # Deno Deploy CORS Proxy
 
-https://cors.deno.dev
+https://cros.deno.dev (misspell of "cors" is intentional)
 
 ## Usage
 
